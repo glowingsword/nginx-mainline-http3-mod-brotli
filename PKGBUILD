@@ -1,4 +1,4 @@
-# Maintainer: Massimiliano Torromeo <massimiliano.torromeo@gmail.com>
+# Maintainer: Andrei Gutu <glowingsword@gmail.com>
 
 pkgname=nginx-mainline-http3-mod-brotli
 orig_pkgname=nginx-mod-brotli
